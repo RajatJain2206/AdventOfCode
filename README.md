@@ -13,7 +13,6 @@ This repository contains my solutions for Advent of Code challenges.
 
 Each day's folder contains:
 - C++ source files (`firstTask.cpp`, `secondTask.cpp`)
-- Compiled executables (`firstTask`, `secondTask`)
 - Input files (`input.txt`, etc.)
 
 To compile and run:
